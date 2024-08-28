@@ -1,0 +1,12 @@
+hello
+name 
+
+
+name :teerayout
+name : thairat
+
+x = teerayout
+y = thairat
+
+
+
